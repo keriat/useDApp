@@ -1,5 +1,11 @@
 # @usedapp/core
 
+## 1.0.16
+
+### Patch Changes
+
+- 2789dd9: 😶‍🌫️ Add gas limiter to use contract function
+
 ## 1.0.15
 
 ### Patch Changes
